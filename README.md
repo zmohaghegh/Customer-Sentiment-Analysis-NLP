@@ -1,4 +1,3 @@
-# Customer-Sentiment-Analysis-NLP
 # Customer Sentiment Analysis using NLP
 
 This project implements a Natural Language Processing (NLP) model to classify customer reviews as **Positive** or **Negative**. It uses the IMDB dataset and achieves an accuracy of **85.10%**.
